@@ -3,7 +3,7 @@
 
 ## Overview
 
-i perform at dekstop on jupyter notebook and also perform  without jupyter notebook  on remote server using python .
+i perform this project on dekstop with using Jupyter_Notebook and also perform  without using Jupyter_notebook  on remote server using python.
 
 ## Software and Libraries
 - Python 3
