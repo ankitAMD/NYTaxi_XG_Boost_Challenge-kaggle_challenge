@@ -3,7 +3,7 @@
 
 ## Overview
 
-i done some changes and perform at dekstop on jupyter notebook and also perform  without jupyter notebook  on remote server using python .This is the code taken for [https://github.com/llSourcell/kaggle_challenge/blob/master/notebook.ipynb][https://www.youtube.com/watch?v=suRd3UzdBeo]() video on Youtube by Siraj Raval.
+i perform at dekstop on jupyter notebook and also perform  without jupyter notebook  on remote server using python .
 
 ## Software and Libraries
 - Python 3
@@ -25,6 +25,12 @@ The final visualization image for the project report is visualization.pdf (.png)
 
 Credits for this code go to [rebeccak1](https://github.com/rebeccak1/nyc-taxi) 
 
+ Credits for this code go to:
+ 
+[https://github.com/llSourcell/kaggle_challenge/blob/master/notebook.ipynb]
+ 
+[https://www.youtube.com/watch?v=suRd3UzdBeo]
+
 ## Remote Server Configuration
 
 transfer file from host to remote server [http://qr.ae/TUNL43].
@@ -37,3 +43,6 @@ https://www.kaggle.com/rtatman/beginn...
 https://machinelearningmastery.com/ge...
 
 http://blog.kaggle.com/2017/01/23/a-k... 
+
+
+
