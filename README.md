@@ -62,6 +62,46 @@ This video is apart of my Machine Learning Journey course:
 
 https://github.com/llSourcell/Machine...
 
+## basic resources 
+https://www.tutorialspoint.com/numpy/numpy_introduction.htm...
+
+https://www.tutorialspoint.com/seaborn/seaborn_quick_guide.htm......
+
+https://www.tutorialspoint.com/python_pandas/python_pandas_introduction.htm...
+
+https://www.datacamp.com/community/tutorials/xgboost-in-python.... ## Necessarily read (Xgboost)
+
+https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline/43028034 //Provided you are running IPython, the
+
+%matplotlib inline will make your plot outputs appear and be stored within the notebook.
+
+/Scikit-learn
+
+https://www.datacamp.com/community/tutorials/machine-learning-python......
+
+https://www.analyticsvidhya.com/blog/2015/01/scikit-learn-python-machine-learning-tool/....
+
+scikit-learn is used to build models. It should not be used for reading the data, manipulating and summarizing it. There are 
+
+better libraries for that (e.g. NumPy, Pandas etc.)
+
+http://scikit-learn.org/stable/tutorial/basic/tutorial.html.....
+
+https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
+
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/...
+
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ShuffleSplit.html...
+
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html...
+
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html....
+
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html...
+
+
+
+
 ## remove a directory through terminal contain with many files
 
 "rm -rf ankit"
