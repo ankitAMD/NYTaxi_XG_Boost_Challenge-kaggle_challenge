@@ -31,9 +31,8 @@ Credits for this code go to [rebeccak1](https://github.com/rebeccak1/nyc-taxi)
  
 [https://www.youtube.com/watch?v=suRd3UzdBeo]
 
-## Remote Server Configuration
-
-transfer file from host to remote server [http://qr.ae/TUNL43].
+## Remote Server Configuration:
+Learn copy  transfer file from host to remote server and vice versa [http://qr.ae/TUNL43].
 
 ## More Learning Resources:
 https://www.kaggle.com/kanncaa1/machi... 
