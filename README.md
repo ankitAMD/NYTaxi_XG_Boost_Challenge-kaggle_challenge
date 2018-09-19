@@ -4,6 +4,16 @@
 
 Kaggle competition to predict NYC taxi travel times. The report for the project is at capstone.pdf.
 
+## PROBLEM S TATEMENT
+In this report, we look at a Kaggle competition with data from the NYC Taxi and
+Limousine Commission, which asks competitors to predict the total ride time
+(trip_duration) of taxi trips in New York City. The data provided by Kaggle is structured
+data provided as a CSV file. The data in the CSV file includes multiple formats: timestamps,
+text, and numerical data. This is a regression analysis, since the output, total ride time, is
+numerical. I will use several machine learning methods for the prediction task, which are
+linear regression, k-nearest neighbors regression, random forests, and XGBoost. The
+models will be evaluated using the root mean squared logarithmic error.
+
 ## Overview
 
 i perform this project on dekstop with using Jupyter_Notebook and also perform  without using Jupyter_notebook  on remote server using python.
