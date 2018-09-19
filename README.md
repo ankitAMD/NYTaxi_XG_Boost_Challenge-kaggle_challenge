@@ -63,6 +63,9 @@ This video is apart of my Machine Learning Journey course:
 https://github.com/llSourcell/Machine...
 
 ## basic resources 
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html .........(df.loc)
+
 https://www.tutorialspoint.com/numpy/numpy_introduction.htm...
 
 https://www.tutorialspoint.com/seaborn/seaborn_quick_guide.htm......
