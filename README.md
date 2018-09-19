@@ -1,4 +1,4 @@
-# nyc-taxi
+# Nyc-taxi-Kaggle-challenge
 
 # Goal
 
