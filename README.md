@@ -24,3 +24,6 @@ The final visualization image for the project report is visualization.pdf (.png)
 ## Credits
 
 Credits for this code go to [rebeccak1](https://github.com/rebeccak1/nyc-taxi) 
+
+##Remote Server Configuration
+transfer file from host to remote server [http://qr.ae/TUNL43].
