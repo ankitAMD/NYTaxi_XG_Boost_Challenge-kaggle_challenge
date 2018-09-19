@@ -1,5 +1,8 @@
 # nyc-taxi
 
+# Goal
+
+Kaggle competition to predict NYC taxi travel times. The report for the project is at capstone.pdf.
 
 ## Overview
 
