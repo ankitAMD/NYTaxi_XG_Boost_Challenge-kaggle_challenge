@@ -52,3 +52,6 @@ This video is apart of my Machine Learning Journey course:
 
 https://github.com/llSourcell/Machine...
 
+## remove a directory through terminal contain with many files
+
+"rm -rf ankit"
