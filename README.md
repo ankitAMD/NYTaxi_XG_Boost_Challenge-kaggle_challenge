@@ -3,7 +3,7 @@
 
 ## Overview
 
-i done some changes and perform on dekstop with jupyter notebook and without jupyter notebook and on remote server .This is the code taken for [this]() video on Youtube by Siraj Raval.
+i done some changes and perform at dekstop on jupyter notebook and also perform  without jupyter notebook  on remote server using python .This is the code taken for [this]() video on Youtube by Siraj Raval.
 
 ## Software and Libraries
 - Python 3
