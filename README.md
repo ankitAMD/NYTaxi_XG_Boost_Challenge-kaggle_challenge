@@ -1,0 +1,2 @@
+# NYTaxi_XG_Boost_Challenge-kaggle_challenge
+ I attempt a Kaggle challenge .I'm attempting the NYC Taxi Duration prediction challenge. I'll by using a combination of Pandas, Matplotlib, and XGBoost as python libraries to help me understand and analyze the taxi dataset that Kaggle provides. The goal will be to build a predictive model for taxi duration time. I'll also be using Google Colab as my jupyter notebook. i will also predict without Google colab on normal system.
