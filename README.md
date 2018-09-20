@@ -62,6 +62,10 @@ https://github.com/llSourcell/Machine...
 
 ## basic resources 
 
+http://qr.ae/TUNfyZ
+
+http://qr.ae/TUNfrF
+
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html .........(df.loc)
 
 https://www.tutorialspoint.com/numpy/numpy_introduction.htm...
