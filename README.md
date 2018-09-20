@@ -46,6 +46,9 @@ Credits for this code go to [rebeccak1](https://github.com/rebeccak1/nyc-taxi)
 Learn copy  transfer file from host to remote server and vice versa [http://qr.ae/TUNL43].
 
 ## More Learning Resources:
+
+install the library : pip install graphviz
+
 https://www.kaggle.com/kanncaa1/machi... 
 
 https://www.kaggle.com/rtatman/beginn... 
