@@ -10,10 +10,7 @@ Limousine Commission, which asks competitors to predict the total ride time
 (trip_duration) of taxi trips in New York City. The data provided by Kaggle is structured
 data provided as a CSV file. The data in the CSV file includes multiple formats: timestamps,
 text, and numerical data. This is a regression analysis, since the output, total ride time, is
-numerical. I will use 
-## several machine learning methods for the prediction task, which are
-## linear regression, k-nearest neighbors regression, random forests, and XGBoost. The
-## models will be evaluated using the root mean squared logarithmic error.
+numerical. I will use  several machine learning methods for the prediction task, which are linear regression, k-nearest neighbors regression, random forests, and XGBoost. The models will be evaluated using the root mean squared logarithmic error.
 
 ## Overview
 
