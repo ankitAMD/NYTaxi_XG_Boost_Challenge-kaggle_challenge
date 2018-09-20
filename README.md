@@ -65,6 +65,10 @@ https://github.com/llSourcell/Machine...
 
 ## basic resources 
 
+https://stackoverflow.com/a/34667386/5879056 ....(np.where )
+
+https://www.geeksforgeeks.org/python-format-function/ (string.format)
+
 http://qr.ae/TUNfyZ
 
 http://qr.ae/TUNfrF
