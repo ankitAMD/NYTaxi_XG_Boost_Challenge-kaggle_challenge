@@ -64,6 +64,11 @@ This video is apart of my Machine Learning Journey course:
 https://github.com/llSourcell/Machine...
 
 ## basic resources 
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corr.html .....(df.corr)
+
+https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials
+
 https://seaborn.pydata.org/generated/seaborn.diverging_palette.html ...........(cmap = sns.diverging_palette )
 
 https://stackoverflow.com/a/34667386/5879056 ....(np.where )
