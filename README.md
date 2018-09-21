@@ -2,7 +2,7 @@
 
 # Goal
 
-Kaggle competition to predict NYC taxi travel times. The report for the project is at capstone.pdf.
+Kaggle competition to predict NYC taxi travel times. The report for the project is at capstone.pdf. (In this project i provide many links through which clear your concept if you are beginner , if anything not understand go throughly link and pdf which provides  in  project and readme .)
 
 ## PROBLEM S TATEMENT
 In this report, we look at a Kaggle competition with data from the NYC Taxi and
@@ -73,7 +73,7 @@ http://qr.ae/TUNfyZ
 
 http://qr.ae/TUNfrF
 
-https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html .........(df.loc)
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html .........(df.loc)....->>Access a group of rows and columns by label(s) or a boolean array.
 
 https://www.tutorialspoint.com/numpy/numpy_introduction.htm...
 
