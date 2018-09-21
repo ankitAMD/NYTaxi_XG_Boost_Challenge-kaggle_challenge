@@ -64,6 +64,7 @@ This video is apart of my Machine Learning Journey course:
 https://github.com/llSourcell/Machine...
 
 ## basic resources 
+https://seaborn.pydata.org/generated/seaborn.diverging_palette.html ...........(cmap = sns.diverging_palette )
 
 https://stackoverflow.com/a/34667386/5879056 ....(np.where )
 
