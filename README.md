@@ -67,7 +67,7 @@ https://github.com/llSourcell/Machine...
 
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corr.html .....(df.corr)
 
-https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials
+https://study.com/academy/lesson/pearson-correlation-coefficient-formula-example-significance.html
 
 https://seaborn.pydata.org/generated/seaborn.diverging_palette.html ...........(cmap = sns.diverging_palette )
 
